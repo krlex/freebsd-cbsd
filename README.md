@@ -18,7 +18,7 @@ READ more information on [Freebsd ZFS](https://www.freebsd.org/doc/handbook/zfs.
 
 ## What is CBSD?
 
-CBSD is a management layer written for the FreeBSD jai subsystem, bhyve and Xen. 
+CBSD is a management layer written for the FreeBSD jail subsystem, bhyve and Xen. 
 The project is positioned as a single integrated tool of comprehensive solution for building and deploying virtual environments quickly with pre-defined software sets with minimal configuration.
 
 Read more here [CBSD.io](https://cbsd.io)
