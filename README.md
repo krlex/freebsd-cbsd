@@ -23,7 +23,7 @@ The project is positioned as a single integrated tool of comprehensive solution 
 
 Read more here [CBSD.io](https://cbsd.io)
 
-## How user tool reggae?
+## How use tool reggae?
 
 ### Initialization
 
